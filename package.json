@@ -1,0 +1,26 @@
+{
+  "name": "exercicio-s14",
+  "version": "1.0.0",
+  "description": "Update exercicio-s9 Conexão com MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcelascv/exercicio-s14.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcelascv/exercicio-s14/issues"
+  },
+  "homepage": "https://github.com/marcelascv/exercicio-s14#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
